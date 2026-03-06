@@ -1,4 +1,4 @@
-let apiKey = "5b8be06f97ac34d66e5a0c06f782ed15";
+let apiKey = "91033e952b06712ca2ceb4a90b074872";
 let button = document.getElementById("get-weather");
 
 button.addEventListener("click", getWeather);
